@@ -5,10 +5,12 @@ import express from 'express'
 import { db } from './config/db.js'
 import colors from 'colors'
 import vehiculoRoutes from './routes/vehiculoRoutes.js'
+import cors from 'cors' 
 
 //Configuracion de la app
 const app = express()
 
+app.use(cors()) // Permite solicitudes de diferentes orígenes
 app.use(express.json()) 
 
 //Conectar a la base de datos
