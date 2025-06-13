@@ -1,0 +1,82 @@
+[
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": "2020",
+    "color": "Blanco",
+    "tipo": "Sedán",
+    "precio": 18500
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "anio": "2022",
+    "color": "Negro",
+    "tipo": "Sedán",
+    "precio": 21000
+  },
+  {
+    "marca": "Ford",
+    "modelo": "F-150",
+    "anio": "2021",
+    "color": "Gris",
+    "tipo": "Pickup",
+    "precio": 35000
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Equinox",
+    "anio": "2019",
+    "color": "Rojo",
+    "tipo": "SUV",
+    "precio": 24000
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "anio": "2023",
+    "color": "Azul",
+    "tipo": "SUV",
+    "precio": 27500
+  },
+  {
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "anio": "2023",
+    "color": "Blanco",
+    "tipo": "Sedán Eléctrico",
+    "precio": 39900
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Rio",
+    "anio": "2021",
+    "color": "Plateado",
+    "tipo": "Compacto",
+    "precio": 16000
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "anio": "2022",
+    "color": "Negro",
+    "tipo": "SUV",
+    "precio": 28000
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "anio": "2020",
+    "color": "Gris",
+    "tipo": "Sedán",
+    "precio": 19500
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "anio": "2021",
+    "color": "Blanco",
+    "tipo": "Sedán",
+    "precio": 18500
+  }
+]
